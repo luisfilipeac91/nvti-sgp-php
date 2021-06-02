@@ -1,2 +1,2 @@
-# nvti_sgp-php
- NVTI Sistema de Gestão de Professores - PHP
+# NVTI_SGP - PHP
+Solicitado desenvolvimento MVC ASP.NET -> Opção alternativa desenvolvida em PHP para demonstrar conhecimento em PHP/Javascript/HTML/CSS
