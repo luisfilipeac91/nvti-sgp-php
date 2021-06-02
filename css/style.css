@@ -1,0 +1,12 @@
+.modal-title{
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+.modal-header{
+    border-bottom:0;
+}
+.modal-footer{
+    border-top:0;
+    justify-content: center;
+}
